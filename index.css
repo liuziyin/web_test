@@ -79,7 +79,7 @@ body {
     padding-bottom:10vh;
 }
 #middle h1 {
-    color:rgb(237, 11, 11);
+    color:rgb(248, 6, 10);
     font-size:70px;
     text-decoration:underline;
 }
@@ -155,19 +155,19 @@ body {
     border-radius:100px 100px 0px 0px;
 }
 #projects:hover {
-    background:rgba(16, 16, 17, 0.9);
+    background:rgba(90, 16, 17, 0.9);
     cursor:pointer;
 }
 #about:hover {
-    background:rgba(16, 17, 17, 0.9);
+    background:rgba(16, 20, 17, 0.9);
     cursor:pointer;
 }
 #work:hover {
-    background:rgba(16, 16, 16, 0.9);
+    background:rgba(16, 16, 30, 0.9);
     cursor:pointer;
 }
 #contact:hover {
-    background:rgba(12, 12, 12, 0.9);
+    background:rgba(50, 12, 12, 0.9);
     cursor:pointer;
 }
 #middle table {
